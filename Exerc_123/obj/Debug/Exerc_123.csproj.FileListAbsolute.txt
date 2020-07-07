@@ -1,0 +1,7 @@
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 9 - EnumeracoesEcomposicoes\123_ExercProposto\Exerc_123\Exerc_123\bin\Debug\Exerc_123.exe.config
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 9 - EnumeracoesEcomposicoes\123_ExercProposto\Exerc_123\Exerc_123\bin\Debug\Exerc_123.exe
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 9 - EnumeracoesEcomposicoes\123_ExercProposto\Exerc_123\Exerc_123\bin\Debug\Exerc_123.pdb
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 9 - EnumeracoesEcomposicoes\123_ExercProposto\Exerc_123\Exerc_123\obj\Debug\Exerc_123.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 9 - EnumeracoesEcomposicoes\123_ExercProposto\Exerc_123\Exerc_123\obj\Debug\Exerc_123.exe
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 9 - EnumeracoesEcomposicoes\123_ExercProposto\Exerc_123\Exerc_123\obj\Debug\Exerc_123.pdb
+C:\Users\Marcelo Souza\Documents\UDEMY\C# O.O DOT.NET - Prof. Dr. Nelio Alves\SECAO 9 - EnumeracoesEcomposicoes\123_ExercProposto\Exerc_123\Exerc_123\obj\Debug\Exerc_123.csprojAssemblyReference.cache
