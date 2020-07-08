@@ -10,9 +10,7 @@ namespace Exerc_123.Entities
         public string Email { get; set; }
         public DateTime DataNasc { get; set; }
 
-        public Cliente()
-        {
-        }
+        public Cliente(){}
 
         public Cliente(string nome, string email, DateTime dataNasc)
         {
@@ -26,7 +24,7 @@ namespace Exerc_123.Entities
             return Nome + ", ("
                    + DataNasc.ToShortDateString()
                    + ") - "
-                   + Email; 
+                   + Email;
         }
     }
 }
